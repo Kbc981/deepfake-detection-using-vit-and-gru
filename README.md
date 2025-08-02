@@ -153,12 +153,15 @@ The model is evaluated using comprehensive metrics:
 ```
 ├── maincode.ipynb          # Main implementation notebook
 ├── README.md              # Project documentation
+├── CHANGELOG.md           # Version history and changes
 ├── requirements.txt       # Python dependencies
 ├── LICENSE               # License information
 └── docs/                 # Additional documentation
     ├── INSTALLATION.md   # Detailed setup guide
     ├── USAGE.md         # Usage examples
-    └── API.md           # API documentation
+    ├── API.md           # API documentation
+    ├── RELEASE_NOTES.md # Detailed release information
+    └── ...              # Other documentation files
 ```
 
 ## 🤝 Contributing
@@ -188,6 +191,7 @@ If you encounter any issues or have questions:
 - Open an issue on GitHub
 - Check the [FAQ](docs/FAQ.md)
 - Review the [troubleshooting guide](docs/TROUBLESHOOTING.md)
+- See the [changelog](CHANGELOG.md) for recent updates
 
 ## 🏆 Acknowledgments
 

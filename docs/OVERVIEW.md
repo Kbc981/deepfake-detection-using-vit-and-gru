@@ -9,6 +9,7 @@ This document provides an overview of all documentation available for the Deepfa
 | Document | Purpose | When to Use |
 |----------|---------|-------------|
 | [README.md](../README.md) | Project overview and quick start | First time visitors, getting project overview |
+| [CHANGELOG.md](../CHANGELOG.md) | Version history and changes | Understanding recent updates, tracking changes |
 | [requirements.txt](../requirements.txt) | Python dependencies | Setting up environment |
 | [maincode.ipynb](../maincode.ipynb) | Main implementation | Understanding the code, running experiments |
 
@@ -21,6 +22,7 @@ This document provides an overview of all documentation available for the Deepfa
 | [API.md](API.md) | API reference documentation | Understanding code structure, extending functionality |
 | [TROUBLESHOOTING.md](TROUBLESHOOTING.md) | Common issues and solutions | Encountering errors, debugging problems |
 | [FAQ.md](FAQ.md) | Frequently asked questions | Quick answers to common questions |
+| [RELEASE_NOTES.md](RELEASE_NOTES.md) | Detailed release information | Understanding new features, release details |
 
 ### Project Information
 
@@ -122,6 +124,18 @@ This documentation aims to:
 - **Length**: Comprehensive guide
 - **Audience**: Contributors, developers
 - **Key sections**: Setup, contribution process, code style, testing
+
+### [CHANGELOG.md](../CHANGELOG.md)
+- **Content**: Version history, changes, and release notes
+- **Length**: Comprehensive changelog
+- **Audience**: All users, especially those tracking updates
+- **Key sections**: Recent changes, version history, technical specifications
+
+### [RELEASE_NOTES.md](RELEASE_NOTES.md)
+- **Content**: Detailed release information, features, and improvements
+- **Length**: Comprehensive release documentation
+- **Audience**: Users interested in release details
+- **Key sections**: New features, technical specs, getting started, roadmap
 
 ## 🔄 Keeping Documentation Updated
 
